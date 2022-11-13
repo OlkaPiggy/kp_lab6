@@ -1,0 +1,6 @@
+peperoni 450 198 tomato_sauce mozarella peperoni
+margaryta 390 144 tomato_sauce mozarella tomatos
+havaiska 480 218 cream_sauce mozarella chicken pineapple corn olives
+carbonara 470 220 cream_sauce mozarella onion becon ham mushrooms egg
+zesar 480 218 tomato_sauce mozarella chicken quail_eggs parmezan salad cherri
+caprichoza 550 202 tomato_sauce mozarella salami ham mushrooms tomatos
